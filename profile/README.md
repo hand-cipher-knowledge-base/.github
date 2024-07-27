@@ -6,4 +6,4 @@ Although this project primarily focuses on manual cryptography, the usage of com
 # License and Copyright Information
 Copyright (C) 2023 Peter Bruce Funnell
 
-This repository is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. A copy of this license has been included with this repository in a file entitled `LICENSE`. To view a copy of this license online, visit http://creativecommons.org/licenses/by-sa/4.0/
+This repository is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. A copy of this license has been included with this repository in a file entitled `LICENSE`. To view a copy of this license online, visit https://creativecommons.org/licenses/by-sa/4.0/
